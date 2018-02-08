@@ -1,0 +1,8 @@
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ResolveAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.Cache
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
